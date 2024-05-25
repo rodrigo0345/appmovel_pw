@@ -1,0 +1,7 @@
+
+@supports (-webkit-appearance: none) {
+  .chrome-only {
+    @apply /* nothing here */;
+  }
+}
+
